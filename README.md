@@ -7,14 +7,14 @@
 
 👋 • <a target="_blank" href="https://letterboxd.com/Dissident/"><img src="https://img.shields.io/badge/Letterboxd-orange?style=flat-square&logo=Letterboxd&lgreenlor=white&link=https%3A%2F%2Fletterboxd.com%2FDissident%2F" title="Letterboxd profile"/></a>  &nbsp;<a target="_blank" href="https://www.goodreads.com/user/show/98099414-nathan"><img src="https://img.shields.io/badge/Goodreads-blue?style=flat-square&logo=Goodreads&logoColor=white&link=https%3A%2F%2Fwww.goodreads.com%2Fuser%2Fshow%2F98099414-nathan" title="Goodreads profile"/></a>
 
-</br>
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dissidentcode&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dissidentcode&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dissidentcode&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dissidentcode&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dissidentcode&theme=react&utcOffset=8)
-
+---
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dissidentcode&theme=react)](https://github.com/dissidentcode/github-readme-activity-graph) 
+---
 <div align="left">
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" alt="Windows" title="Windows"/></code>
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/macos.png" alt="macOS" title="macOS"/></code>
@@ -35,11 +35,7 @@
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" alt="Pandas" title="Pandas"/></code>
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
 </div>
-
-</br>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dissidentcode&theme=react)](https://github.com/dissidentcode/github-readme-activity-graph)
-
+---
 <!---
 dissidentcode/dissidentcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
