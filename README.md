@@ -5,9 +5,9 @@
 ---
 <p>🤝 • I’m looking to collaborate on anything interesting or challenging.</p>
 <p>👨‍💻 • I'm currently working on Claude Code CLI workflows, purchasing/procurement tools for finance teams, and financial model presentations using Chart.js.</p>
-<p>📨 • Reach me at github.carry327@passinbox.com.</p>
 
-👋 • <a target="_blank" href="https://letterboxd.com/Dissident/"><img src="https://img.shields.io/badge/Letterboxd-orange?style=flat-square&logo=Letterboxd&lgreenlor=white&link=https%3A%2F%2Fletterboxd.com%2FDissident%2F" title="Letterboxd profile"/></a>  &nbsp;<a target="_blank" href="https://www.goodreads.com/user/show/98099414-nathan"><img src="https://img.shields.io/badge/Goodreads-blue?style=flat-square&logo=Goodreads&logoColor=white&link=https%3A%2F%2Fwww.goodreads.com%2Fuser%2Fshow%2F98099414-nathan" title="Goodreads profile"/></a>
+
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dissidentcode&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dissidentcode&theme=react)
