@@ -1,6 +1,5 @@
 
-![](https://user-images.githubusercontent.com/24501320/158049904-efd9f43a-78ae-45f4-96f3-9fda67ee0392.png)
-
+![]()
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&duration=1000&pause=350&color=18E4F7&repeat=false&width=435&lines=Dedicated;Designer;Developer;%40DissidentCode)](https://git.io/typing-svg)
 ---
 <p>🤝 • I’m looking to collaborate on anything interesting or challenging.</p>
