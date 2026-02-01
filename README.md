@@ -3,6 +3,7 @@
 ---
 
 🤝 • I’m looking to collaborate on anything interesting or challenging.
+
 👨‍💻 • I'm currently working on Claude Code CLI workflows, purchasing/procurement tools for finance teams, and financial model presentations using Chart.js.
 
 
