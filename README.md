@@ -4,7 +4,7 @@
 
 🤝 • I’m looking to collaborate on anything interesting or challenging.
 
-👨‍💻 • I'm currently working on Claude Code CLI workflows, purchasing/procurement tools for finance teams, and financial model presentations using Chart.js.
+👨‍💻 • I'm currently working on purchasing/procurement tools for finance teams, financial model presentations using Chart.js, and Claude Code CLI workflows.
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dissidentcode&theme=react)
